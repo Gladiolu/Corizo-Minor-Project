@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+th {
+    background: #4CAF50;
+    color: white;
+}
+
+.btn {
+    background: #4CAF50;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
